@@ -10,7 +10,13 @@
 <p align="center">
   𑣲⋆ 𝙸'𝚖 𝙼𝚎𝚢𝚘 , 𝚘𝚛 𝚃𝚠𝚘 , 𝙸𝙽𝚃𝙿 , 14 𝚢𝚎𝚊𝚛𝚜 𝚘𝚕𝚍 , 𝚒𝚗𝚝𝚛𝚘𝚟𝚎𝚛𝚝𝚎𝚍 , 𝚍𝚘𝚗'𝚝 𝚋𝚎 𝚜𝚑𝚢 𝚝𝚘 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝 ! ˚. ᵎᵎ
 </p>
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Are+you+man+enough+%3F+%3F+%3F" />
+  <img src="9500b278-8563-4e51-8440-74b5051d377a.jpeg" width="400" alt="Are you man enough" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&pause=3000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Are+you+man+enough+%3F+%3F+%3F" alt="Are you man enough ???" />
 </p>
